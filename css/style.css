@@ -64,12 +64,25 @@ body {
 }
 .first-block {
 	text-align: center;
-	margin-top: 50px;
+	padding-top: 50px;
+	height: 825px;
+	background-image:linear-gradient(rgba(39, 174, 97, 0.5),rgba(39, 174, 97, 0.5)),
+	url('../images/banner.png');
+	background-size: cover;
+	position: relative;
+	background-position: 50% 50%;
 }
+
 
 .avatar {
 	border-radius: 50%;
 	height: 110px;
 	width: 110px;
 }
+
+.on-top {
+	z-index: 2;
+}
+
+rgba(39, 174, 97, 1.0)
 
