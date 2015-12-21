@@ -31,6 +31,7 @@ body {
 	font-size: 32px;
 	margin-left: 145px;
 	float: left;
+	color: #2B3F48;
 }
 
 .page-content nav {
@@ -61,3 +62,14 @@ body {
 .page-content nav a:hover {
 	color: #27AE61;
 }
+.first-block {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.avatar {
+	border-radius: 50%;
+	height: 110px;
+	width: 110px;
+}
+
